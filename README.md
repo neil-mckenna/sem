@@ -2,4 +2,5 @@
 by 
 Neil mckenna
 
-Bah
+This just shows an understanding on how to use git github and version control
+
